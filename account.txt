@@ -1,0 +1,1 @@
+{"1": {"name": "rahul", "password": "redhat", "email": "shah.rahul004@gmail.com", "Account Balance": 18000}, "2": {"name": "sahil", "password": "sahil", "email": "shah.rahul@gmail.com", "Account Balance": 21000}, "3": {"name": "sanu jain", "password": "sanu", "email": "sanu@gmail.com", "Account Balance": 0}}
